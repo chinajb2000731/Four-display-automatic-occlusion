@@ -1,0 +1,28 @@
+D:\VS2015\visual studio 2015_Projects\VSshiyan_02\shiyan_04\xianquan2\xianquan2\bin\Debug\xianquan2.dll
+D:\VS2015\visual studio 2015_Projects\VSshiyan_02\shiyan_04\xianquan2\xianquan2\bin\Debug\xianquan2.pdb
+D:\VS2015\visual studio 2015_Projects\VSshiyan_02\shiyan_04\xianquan2\xianquan2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\VS2015\visual studio 2015_Projects\VSshiyan_02\shiyan_04\xianquan2\xianquan2\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\VS2015\visual studio 2015_Projects\VSshiyan_02\shiyan_04\xianquan2\xianquan2\obj\Debug\xianquan2.csprojResolveAssemblyReference.cache
+D:\VS2015\visual studio 2015_Projects\VSshiyan_02\shiyan_04\xianquan2\xianquan2\obj\Debug\xianquan2.UserControl1.resources
+D:\VS2015\visual studio 2015_Projects\VSshiyan_02\shiyan_04\xianquan2\xianquan2\obj\Debug\xianquan2.csproj.GenerateResource.Cache
+D:\VS2015\visual studio 2015_Projects\VSshiyan_02\shiyan_04\xianquan2\xianquan2\obj\Debug\xianquan2.dll
+D:\VS2015\visual studio 2015_Projects\VSshiyan_02\shiyan_04\xianquan2\xianquan2\obj\Debug\xianquan2.pdb
+C:\Users\guxini\Desktop\xianquan2\xianquan2\xianquan2\bin\Debug\xianquan2.dll
+C:\Users\guxini\Desktop\xianquan2\xianquan2\xianquan2\bin\Debug\xianquan2.pdb
+C:\Users\guxini\Desktop\xianquan2\xianquan2\xianquan2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\guxini\Desktop\xianquan2\xianquan2\xianquan2\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\guxini\Desktop\xianquan2\xianquan2\xianquan2\obj\Debug\xianquan2.csprojResolveAssemblyReference.cache
+C:\Users\guxini\Desktop\xianquan2\xianquan2\xianquan2\obj\Debug\xianquan2.UserControl1.resources
+C:\Users\guxini\Desktop\xianquan2\xianquan2\xianquan2\obj\Debug\xianquan2.csproj.GenerateResource.Cache
+C:\Users\guxini\Desktop\xianquan2\xianquan2\xianquan2\obj\Debug\xianquan2.dll
+C:\Users\guxini\Desktop\xianquan2\xianquan2\xianquan2\obj\Debug\xianquan2.pdb
+D:\桌面\四显示自动闭塞\xianquan2\xianquan2\bin\Debug\xianquan2.dll
+D:\桌面\四显示自动闭塞\xianquan2\xianquan2\bin\Debug\xianquan2.pdb
+D:\桌面\四显示自动闭塞\xianquan2\xianquan2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\桌面\四显示自动闭塞\xianquan2\xianquan2\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\桌面\四显示自动闭塞\xianquan2\xianquan2\obj\Debug\xianquan2.csprojResolveAssemblyReference.cache
+D:\桌面\四显示自动闭塞\xianquan2\xianquan2\obj\Debug\xianquan2.Properties.Resources.resources
+D:\桌面\四显示自动闭塞\xianquan2\xianquan2\obj\Debug\xianquan2.csproj.GenerateResource.Cache
+D:\桌面\四显示自动闭塞\xianquan2\xianquan2\obj\Debug\xianquan2.dll
+D:\桌面\四显示自动闭塞\xianquan2\xianquan2\obj\Debug\xianquan2.pdb
+D:\桌面\四显示自动闭塞\xianquan2\xianquan2\obj\Debug\xianquan2.xianquan.resources

@@ -1,0 +1,61 @@
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\bin\Debug\JiDiQi.dll
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\bin\Debug\JiDiQi.pdb
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\obj\Debug\JiDiQi.csprojResolveAssemblyReference.cache
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\obj\Debug\JiDiQi.csproj.GenerateResource.Cache
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\obj\Debug\JiDiQi.dll
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\obj\Debug\JiDiQi.pdb
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\obj\Debug\JiDiQi.Properties.Resources.resources
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\obj\Debug\ff.lamp.resources
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\obj\Debug\JiDiQi.DJ.resources
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\obj\Debug\JiDiQi.JieDian.resources
+D:\my project\sixianshizidongbise\JiDiQi\JiDiQi\obj\Debug\JiDiQi._1GJ_5.resources
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\bin\Debug\JiDiQi.dll
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\bin\Debug\JiDiQi.pdb
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi._1GJ_5.resources
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.DJ.resources
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.JieDian.resources
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\ff.lamp.resources
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.dll
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.pdb
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.hengxian.resources
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.shuxian.resources
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi._2GJ.resources
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\bin\Debug\JiDiQi.dll
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\bin\Debug\JiDiQi.pdb
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\obj\Debug\JiDiQi.csprojResolveAssemblyReference.cache
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\obj\Debug\JiDiQi._1GJ_5.resources
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\obj\Debug\JiDiQi._2GJ.resources
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\obj\Debug\JiDiQi.DJ.resources
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\obj\Debug\JiDiQi.hengxian.resources
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\obj\Debug\JiDiQi.JieDian.resources
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\obj\Debug\ff.lamp.resources
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\obj\Debug\JiDiQi.Properties.Resources.resources
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\obj\Debug\JiDiQi.shuxian.resources
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\obj\Debug\JiDiQi.csproj.GenerateResource.Cache
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\obj\Debug\JiDiQi.dll
+C:\Users\ZDC\Desktop\继电器\JiDiQi\JiDiQi\obj\Debug\JiDiQi.pdb
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\bin\Debug\JiDiQi.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\bin\Debug\JiDiQi.pdb
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi._1GJ_5.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi._2GJ.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.DJ.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.hengxian.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.JieDian.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\ff.lamp.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.shuxian.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\控件库\JiDiQi\JiDiQi\obj\Debug\JiDiQi.pdb

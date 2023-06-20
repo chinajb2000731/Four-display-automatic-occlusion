@@ -1,0 +1,110 @@
+C:\Users\ASUS\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe.config
+C:\Users\ASUS\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe
+C:\Users\ASUS\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.pdb
+C:\Users\ASUS\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Form1.resources
+C:\Users\ASUS\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Properties.Resources.resources
+C:\Users\ASUS\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.exe
+C:\Users\ASUS\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.pdb
+C:\Users\ASUS\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ASUS\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\ASUS\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.UserControl1.resources
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe.config
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.exe
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.pdb
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.pdb
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\JiDiQi.dll
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\xianquan2.dll
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\JiDiQi.pdb
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\xianquan2.pdb
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Form1.resources
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Properties.Resources.resources
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.UserControl1.resources
+C:\Users\ASUS\Desktop\控件测试\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe.config
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.exe
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.pdb
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.pdb
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\JiDiQi.dll
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\xianquan2.dll
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\JiDiQi.pdb
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\xianquan2.pdb
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Form1.resources
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.UserControl1.resources
+C:\Users\ASUS\Desktop\C#\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe.config
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.exe
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.pdb
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.pdb
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\JiDiQi.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\xianquan2.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\JiDiQi.pdb
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\xianquan2.pdb
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Form1.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.UserControl1.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csproj.GenerateResource.Cache
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe.config
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.exe
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.pdb
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.pdb
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\JiDiQi.dll
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\xianquan2.dll
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\JiDiQi.pdb
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\xianquan2.pdb
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csprojResolveAssemblyReference.cache
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Form1.resources
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Properties.Resources.resources
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.UserControl1.resources
+C:\Users\guxini\Desktop\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe.config
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.exe
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.pdb
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.pdb
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\JiDiQi.dll
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\xianquan2.dll
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\JiDiQi.pdb
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\xianquan2.pdb
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Form1.resources
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Properties.Resources.resources
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.UserControl1.resources
+C:\Users\ASUS\Documents\Tencent Files\2533012037\FileRecv\四显示自动闭塞\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe.config
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.exe
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.pdb
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.exe
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\bin\Debug\四显示自动闭塞.pdb
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\bin\Debug\JDQxq.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\bin\Debug\JiDiQi.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\bin\Debug\xianquan2.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\bin\Debug\JDQxq.pdb
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\bin\Debug\JiDiQi.pdb
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\bin\Debug\xianquan2.pdb
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Form1.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.UserControl1.resources
+C:\Users\ASUS\Desktop\C1\四显示自动闭塞2.0\四显示自动闭塞\四显示自动闭塞\obj\Debug\四显示自动闭塞.csproj.GenerateResource.Cache
